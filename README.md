@@ -18,12 +18,12 @@ El proyecto **Pokedex** utiliza Windows Builder.
 
 _Podeis acceder directamente a los distintos proyectos desde los siguientes enlaces:_
 
-* [Once](https://github.com/AdrianCaMu/Practicas_PR/tree/main/Once)
-* [Tesoro](https://github.com/AdrianCaMu/Practicas_PR/tree/main/Tesoro)
-* [Banca](https://github.com/AdrianCaMu/Practicas_PR/tree/main/Banca)
-* [Carta](https://github.com/AdrianCaMu/Practicas_PR/tree/main/Cartas) 
-* [Baraja++](https://github.com/AdrianCaMu/Practicas_PR/tree/main/Baraja%2B%2B) 
-* [Pokedex](https://github.com/AdrianCaMu/Practicas_PR/tree/main/Pokedex) 
+* [Once](https://github.com/AdrianCamaraMunoz/JavaProjectsDAM/tree/main/Once)
+* [Tesoro](https://github.com/AdrianCamaraMunoz/JavaProjectsDAM/tree/main/Tesoro)
+* [Banca](https://github.com/AdrianCamaraMunoz/JavaProjectsDAM/tree/main/Banca)
+* [Cartas](https://github.com/AdrianCamaraMunoz/JavaProjectsDAM/tree/main/Cartas) 
+* [Baraja++](https://github.com/AdrianCamaraMunoz/JavaProjectsDAM/tree/main/Baraja%2B%2B) 
+* [Pokedex](https://github.com/AdrianCamaraMunoz/JavaProjectsDAM/tree/main/Pokedex) 
 * [CombatePokemon](https://github.com/AdrianCamaraMunoz/JavaProjectsDAM/tree/main/CombatePokemon) 
 
 ## 🎫 Once 🎫
