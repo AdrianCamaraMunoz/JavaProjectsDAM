@@ -14,19 +14,31 @@ El proyecto **Baraja++** es una mejora del proyecto Carta en el que se utiliza l
 
 El proyecto **Pokedex** utiliza Windows Builder.
 
-### 🎫 Once 🎫
+## 💻 Enlace a Proyectos 💻
+
+_Podeis acceder directamente a los distintos proyectos desde los siguientes enlaces:_
+
+* [Once](https://github.com/AdrianCaMu/Practicas_PR/tree/main/Once)
+* [Tesoro](https://github.com/AdrianCaMu/Practicas_PR/tree/main/Tesoro)
+* [Banca](https://github.com/AdrianCaMu/Practicas_PR/tree/main/Banca)
+* [Carta](https://github.com/AdrianCaMu/Practicas_PR/tree/main/Cartas) 
+* [Baraja++](https://github.com/AdrianCaMu/Practicas_PR/tree/main/Baraja%2B%2B) 
+* [Pokedex](https://github.com/AdrianCaMu/Practicas_PR/tree/main/Pokedex) 
+* [CombatePokemon](https://github.com/AdrianCaMu/Practicas_PR/tree/main/CombatePokemon) 
+
+## 🎫 Once 🎫
 
 ```
 Introduce un numero, se genera uno aleatorio y comprueba si te ha tocado el premio
 ```
 
-### 💰 Tesoro 💰
+## 💰 Tesoro 💰
 
 ```
 Una especie de buscaminas hecho con matrices en el que tienes que conseguir el tesoro sin morir en el intento
 ```
 
-### 💳 Banca 💳
+## 💳 Banca 💳
 
 ```
 Proyecto formado por dos clases, CuentaCorriente y Persona
@@ -40,7 +52,7 @@ Tiene un "main" para probar las clases
 Tiene un main donde el usuario podrá hacer uso de las clases con sus menús correspondientes.
 ```
 
-### 🃏 Carta 🃏
+## 🃏 Carta 🃏
 
 ```
 Proyecto formado por dos clases, Carta y Baraja
@@ -58,7 +70,7 @@ Tiene un main donde el usuario podrá jugar al 7ymedio de una forma más visual 
 Para crear nuevos juegos hay que añadir el valor de las cartas en la clase carta y en main nuevo.
 ```
 
-### ♠♣ Baraja++ ♥♦
+## ♠♣ Baraja++ ♥♦
 
 ```
 7 clases añadidas a las clase Carta y Baraja ya existentes en Carta.
@@ -90,7 +102,7 @@ _Mano es la baraja que tiene cada jugador en su posesión, formada por cartas ro
 
 _Sieteymedia es una clase que define como se juega a 7 y medio_
 
-### 🎮 Pokedex 👾
+## 🎮 Pokedex 👾
 
 ```
 Paquete enums donde encontramos los enum de Tipo del pokemon y del Sexo del pokemon
@@ -126,17 +138,8 @@ _ModifyPokemon es una vista donde se define la pantalla para modificar pokemons 
 
 _AddPokemon es una vista donde se define la pantalla de creación de nuevos pokemons a la pokedex_
 
+## 🎮 CombatePokemon 🤜🤛
 
-## 💻 Enlace a Proyectos 💻
-
-_Podeis acceder directamente a los distintos proyectos desde los siguientes enlaces:_
-
-* [Once](https://github.com/AdrianCaMu/Practicas_PR/tree/main/Once)
-* [Tesoro](https://github.com/AdrianCaMu/Practicas_PR/tree/main/Tesoro)
-* [Banca](https://github.com/AdrianCaMu/Practicas_PR/tree/main/Banca)
-* [Carta](https://github.com/AdrianCaMu/Practicas_PR/tree/main/Cartas) 
-* [Baraja++](https://github.com/AdrianCaMu/Practicas_PR/tree/main/Baraja%2B%2B) 
-* [Pokedex](https://github.com/AdrianCaMu/Practicas_PR/tree/main/Pokedex) 
 
 ## Contribuciones 👍 
 
