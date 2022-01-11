@@ -24,7 +24,7 @@ _Podeis acceder directamente a los distintos proyectos desde los siguientes enla
 * [Carta](https://github.com/AdrianCaMu/Practicas_PR/tree/main/Cartas) 
 * [Baraja++](https://github.com/AdrianCaMu/Practicas_PR/tree/main/Baraja%2B%2B) 
 * [Pokedex](https://github.com/AdrianCaMu/Practicas_PR/tree/main/Pokedex) 
-* [CombatePokemon](https://github.com/AdrianCaMu/Practicas_PR/tree/main/CombatePokemon) 
+* [CombatePokemon](https://github.com/AdrianCamaraMunoz/JavaProjectsDAM/tree/main/CombatePokemon) 
 
 ## 🎫 Once 🎫
 
