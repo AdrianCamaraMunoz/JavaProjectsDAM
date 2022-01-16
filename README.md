@@ -140,8 +140,10 @@ _ModifyPokemon es una vista donde se define la pantalla para modificar pokemons 
 _AddPokemon es una vista donde se define la pantalla de creación de nuevos pokemons a la pokedex_
 
 ## 🎮 CombatePokemon 🤜🤛
+Combate entre Pokemons que será posteriormente mejorado al conectarlo a una Base de datos
 
 ## 🎮 Snake 🐍
+Este proyecto no es propio, el objetivo era entender como otra persona había creado un código y saber modificarlo para añadir nuevas funcionalidades.
 
 ## Contribuciones 👍 
 
