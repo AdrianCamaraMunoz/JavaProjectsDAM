@@ -25,6 +25,7 @@ _Podeis acceder directamente a los distintos proyectos desde los siguientes enla
 * [Baraja++](https://github.com/AdrianCamaraMunoz/JavaProjectsDAM/tree/main/Baraja%2B%2B) 
 * [Pokedex](https://github.com/AdrianCamaraMunoz/JavaProjectsDAM/tree/main/Pokedex) 
 * [CombatePokemon](https://github.com/AdrianCamaraMunoz/JavaProjectsDAM/tree/main/CombatePokemon) 
+* [Snake](https://github.com/AdrianCamaraMunoz/JavaProjectsDAM/tree/main/Snake)
 
 ## 🎫 Once 🎫
 
@@ -140,6 +141,7 @@ _AddPokemon es una vista donde se define la pantalla de creación de nuevos poke
 
 ## 🎮 CombatePokemon 🤜🤛
 
+## 🎮 Snake 🐍
 
 ## Contribuciones 👍 
 
